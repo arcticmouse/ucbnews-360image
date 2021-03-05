@@ -1,0 +1,11 @@
+/* CSS Document */
+
+.caption-360 {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #eee;
+    margin: 0;
+    padding: 5px;
+    color: #003262;
+	text-align: left;
+	margin-bottom: 20px !important;
+}
